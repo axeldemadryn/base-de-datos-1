@@ -1,12 +1,13 @@
+group: base de datos 1
 Edificios_Emp = {
-edificio, supMedia: number
+edificio, supMedia:number
 
  "Marina", 15
  "Diagonal", 10
 }
 
 Despachos = {
-edificio, numero: number, superficie: number
+edificio, numero:number, superficie:number
 
 "Marina", 120, 10
 "Marina", 230, 20
