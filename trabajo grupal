@@ -1,6 +1,6 @@
 group: base de datos 1
 Series = {
-nro_serie:number, tiuloSerie, anyo_inicio:number, sinopsis, puntuacion_media:number, idioma_original
+nro_serie:number, tituloSerie, anyo_inicio:number, sinopsis, puntuacion_media:number, idioma_original
 
  1, "Altered Carbon", 2018, "en el año 2300", 7, "Inglés"
  2, "Atypical", 2017, "Decidido a tener novia", 8, "Inglés"
