@@ -40,7 +40,7 @@ cod_genero:number, nombre_genero
 1, "Ciencia Ficción"
 2, "Drama"
 3, "Comedia"
-4, Suspenso
+4, "Suspenso"
 }
 
 
